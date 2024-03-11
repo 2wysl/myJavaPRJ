@@ -4,7 +4,7 @@ public class Hello {
         System.out.println("Hello!! My First Java coding!!");
         System.out.println("Edit");
         System.out.println("abcd");
-        System.out.println("efghij");
+        System.out.println("efgh");
 
     }
 }
