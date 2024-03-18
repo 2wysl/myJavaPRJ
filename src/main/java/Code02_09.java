@@ -11,6 +11,7 @@ public class Code02_09 {
         resMul=number1*number2;
         resDiv=number1/number2;
 
+        System.out.println(number1 + "+" + number2 + "=" + resAdd);
 
     }
 }
