@@ -12,6 +12,9 @@ public class Code02_09 {
         resDiv=number1/number2;
 
         System.out.println(number1 + "+" + number2 + "=" + resAdd);
+        System.out.println(number1 + "-" + number2 + "=" + resSub);
+        System.out.println(number1 + "x" + number2 + "=" + resMul);
+        System.out.println(number1 + "/" + number2 + "=" + resDiv);
 
     }
 }
