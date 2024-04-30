@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class dsfadad {
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int n=s.nextInt();
+        int[] ary = new int[n];
+        int temp;
+
+        for (int i = 0; i < ary.length; i++) {
+            ary[i] = s.nextInt();
+        }
+
+        for(int i=0; i<ary.length; i++){
+            if (ary[i] > ary[i+1]) {
+
+                temp=ary[i+1];
+                ary[i]=temp;
+                ary[i+1]=ary[i];
+
+            }
+        }
+
+        for (int i = 0; i < ary.length; i++) {
+            System.out.print(ary[i]+" ");
+        }
+    }
+}
