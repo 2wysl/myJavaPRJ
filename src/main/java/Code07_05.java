@@ -10,6 +10,5 @@ public class Code07_05 {
         turtle2.setPosition(0, -100);
         turtle3.shape("triangle");
         turtle3.setPosition(-100, 100);
-
     }
 }
