@@ -25,6 +25,7 @@ public class PPP {
 		for(int i=0;i<1;i++)
 			System.out.printf("ary4[%d]==>%d\t",  i, ary4[i]);
 		System.out.println();
+
 	}
 
 }
