@@ -6,7 +6,7 @@ BufferedReader br = new BufferedReader (new FileReader("с: /FirstJava/
 myDatal.txt"））；
 String inStr;
 inStr = br.readLine();
-System.out-println(inStr);
+System.out.println(inStr);
 inStr = br.readLine();
 System. out.println(inStr);
 inStr = br. readLine();
