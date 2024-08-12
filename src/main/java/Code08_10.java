@@ -22,5 +22,6 @@ public class Code08_10 {
         Tank tank1=new Tank();
         tank1.move();
         tank1.fire();
+//수정수정
     }
 }
