@@ -1,8 +1,0 @@
-public class Code05_02 {
-    public static void main(String[] args) {
-  
-            System.out.println("오늘은");
-            System.out.println("스승의날");
-        
-    }
-}
